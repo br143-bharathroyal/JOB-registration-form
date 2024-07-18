@@ -1,0 +1,28 @@
+body{
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100%;
+}
+
+
+.ddd{
+	border:dashed gray 3px ;
+	margin-right: 400px;
+	margin-left: 400px;
+	margin-bottom: 50px;
+	backdrop-filter: brightness(200%);
+	padding-bottom: 20px;
+	padding-top: -2px;
+
+}
+form{
+	color: white;
+	font-size: 33px;
+	margin-top: 20px;
+	text-align: center;
+	padding-bottom: 12px;
+}
+input
+{
+	margin-bottom: 10px;
+}
